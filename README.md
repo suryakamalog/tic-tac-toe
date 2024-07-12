@@ -1,6 +1,5 @@
-# Tic-Tac-Toe game made in React
+# Tic-Tac-Toe
+React demo project
 
-Install dependencies - `npm install`
-
-Run project - `npm run dev`
-# tic-tac-toe
+* Install dependencies: `npm install`
+* Run server: `npm run dev`
